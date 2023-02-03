@@ -1,9 +1,8 @@
 ## Hello, I'm Jakub 👋
-I’m a software engineer specializing in building thing for web.
+### I’m a software engineer specializing in building thing for web.
 
-Technologies I have been working recently:
-
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+#### Technologies I have been working recently:
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,jquery,redux,sass,tailwind,vite)]
 <!--
 **jakubfronczyk/jakubfronczyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
