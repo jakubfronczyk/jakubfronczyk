@@ -9,4 +9,4 @@ I'm currently diving deep into React and TypeScript to master these things. But 
 
 <h3 align="left">The things I'm currently learning</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=ts,nextjs,graphql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,nextjs,graphql,python)](https://skillicons.dev)
