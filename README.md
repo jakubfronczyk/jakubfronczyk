@@ -12,4 +12,4 @@
 
 <h3 align="left">The things I'm currently learning</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=ts,nextjs,graphql,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,nextjs,graphql,nodejs,express,python)](https://skillicons.dev)
